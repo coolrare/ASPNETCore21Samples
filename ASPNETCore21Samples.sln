@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjectionSample",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExtensibilitySample", "MiddlewareExtensibilitySample\MiddlewareExtensibilitySample.csproj", "{179FAC81-6942-43D2-958E-FCCA37C37C62}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UseStaticFilesSample", "UseStaticFilesSample\UseStaticFilesSample.csproj", "{637294CD-4283-45B2-9C05-6976182C5466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{179FAC81-6942-43D2-958E-FCCA37C37C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{179FAC81-6942-43D2-958E-FCCA37C37C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{179FAC81-6942-43D2-958E-FCCA37C37C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{637294CD-4283-45B2-9C05-6976182C5466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{637294CD-4283-45B2-9C05-6976182C5466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{637294CD-4283-45B2-9C05-6976182C5466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{637294CD-4283-45B2-9C05-6976182C5466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
